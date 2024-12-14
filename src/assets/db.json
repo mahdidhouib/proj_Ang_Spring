@@ -1,0 +1,72 @@
+{
+  "members": [
+    {
+      "id": "4bdc",
+      "cin": "45464",
+      "name": "zerty",
+      "type": "v:vbn,",
+      "cv": "xcvbn,",
+      "createdate": "2024-09-30T15:45:45.009Z"
+    },
+    {
+      "id": "a173",
+      "cin": "aaaa",
+      "name": "aaaaaa",
+      "type": "teacher",
+      "cv": "aaaa",
+      "createddate": "2024-10-16T10:46:04.005Z"
+    },
+    {
+      "id": "3bfc",
+      "cin": "bbb",
+      "name": "bbbb",
+      "type": "student",
+      "cv": "bbbb",
+      "createddate": "2024-10-16T10:46:30.804Z"
+    }
+  ],
+  "evt": [
+    {
+      "title": "conf",
+      "dateDebut": "2024-10-14T23:00:00.000Z",
+      "dateFin": "2024-10-18T23:00:00.000Z",
+      "lieu": "aaaaaaaaaaaaaa",
+      "id": "12"
+    },
+    {
+      "title": "hhhhhhh",
+      "dateDebut": "2024-10-08T23:00:00.000Z",
+      "dateFin": "2024-10-09T23:00:00.000Z",
+      "lieu": "sfax",
+      "id": "2d59"
+    },
+    {
+      "title": "aaaaaabbb",
+      "dateDebut": "2024-09-30T23:00:00.000Z",
+      "dateFin": "2024-10-01T23:00:00.000Z",
+      "lieu": "bbbbbbb",
+      "id": "6380"
+    },
+    {
+      "title": "cccccc",
+      "dateDebut": "2024-10-16T23:00:00.000Z",
+      "dateFin": "2024-10-17T23:00:00.000Z",
+      "lieu": "xxxxxx",
+      "id": "d606"
+    },
+    {
+      "id": "8e03",
+      "title": "zefczsv",
+      "dateDebut": "2024-10-15T23:00:00.000Z",
+      "dateFin": "2024-10-17T23:00:00.000Z",
+      "lieu": "uoggbhzqekdc"
+    },
+    {
+      "id": "f87d",
+      "title": "bbbbbbb",
+      "dateDebut": "2024-10-09T23:00:00.000Z",
+      "dateFin": "2024-10-10T23:00:00.000Z",
+      "lieu": "wwwww"
+    }
+  ]
+}
